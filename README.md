@@ -1,0 +1,1 @@
+This project will contain all my html, css, and javascript practice.
